@@ -1,0 +1,24 @@
+p{
+    color: red;
+    font-size: 16pt;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    color: blue;
+    background-color: rgb(red, green, blue);
+    background-image: url(lnd.jpg);
+}
+.tytuł{
+    font-weight: bold;
+    font-size: 40px;
+}
+.text{
+    font-weight: normal;
+    font-size: 20px;
+}
+div{
+    margin:auto;
+    background-color: aliceblue;
+    width: 800px;
+
+}
